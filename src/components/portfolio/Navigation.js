@@ -32,7 +32,7 @@ const Navigation = () => {
   const handleResumeDownload = (e) => {
     e.preventDefault();
     const link = document.createElement('a');
-    link.href = '/resume/Hari_Varadhan_Resume.pdf';
+    link.href = '/resume/HARI_VARADHAN_M(Resume).pdf';
     link.download = 'Hari_Varadhan_Resume.pdf';
     document.body.appendChild(link);
     link.click();

@@ -49,15 +49,13 @@ const Contact = () => {
               </div>
             </div>
             <div className="social-links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://github.com/Harivaradhan" target="_blank" rel="noopener noreferrer" className="social-link">
                 GitHub
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://www.linkedin.com/in/hari-varadhan-m2002/" target="_blank" rel="noopener noreferrer" className="social-link">
                 LinkedIn
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-link">
-                Twitter
-              </a>
+              
             </div>
           </div>
           <form className="contact-form" onSubmit={handleSubmit}>

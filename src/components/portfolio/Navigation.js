@@ -79,7 +79,7 @@ const Navigation = () => {
           ))}
           <li className="nav-item">
             <a
-              href="/resume/Hari_Varadhan_Resume.pdf"
+              href="/resume/HARI_VARADHAN_M(Resume).pdf"
               className="nav-link nav-resume"
               onClick={handleResumeDownload}
               download

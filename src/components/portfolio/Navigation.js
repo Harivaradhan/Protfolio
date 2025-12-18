@@ -33,7 +33,7 @@ const Navigation = () => {
     e.preventDefault();
     const link = document.createElement('a');
     link.href = '/resume/HARI_VARADHAN_M(Resume).pdf';
-    link.download = 'Hari_Varadhan_Resume.pdf';
+    link.download = 'HARI_VARADHAN_M(Resume).pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

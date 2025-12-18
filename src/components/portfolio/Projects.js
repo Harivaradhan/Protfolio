@@ -6,7 +6,7 @@ const Projects = () => {
     {
       id: 1,
       title: 'Job Posting Platform',
-      description: 'A full-stack e-commerce solution with payment integration and admin dashboard.',
+      description: 'Developed a job posting admin interface that allows administrators to create, update, and manage job listings efficiently. The application provides a simple dashboard to control job details, status, and visibility..',
       technologies: ['React', 'Java', 'Jdbc', 'J2EE'],
       image: '/images/jobApp1.jpg',
       link: '#',
@@ -15,7 +15,7 @@ const Projects = () => {
     {
       id: 2,
       title: 'Task Manager',
-      description: 'A collaborative task management tool with real-time updates and team features.',
+      description: 'Built a task management system to organize, assign, and monitor tasks with status tracking. Designed to improve productivity and task visibility..',
       technologies: ['React', 'Html', 'Css','Java','j2EE','Mysql'],
       image: '/images/project_homepage.jpg',
       link: '#',
@@ -24,7 +24,7 @@ const Projects = () => {
     {
       id: 3,
       title: 'Food Ordering App ',
-      description: 'Beautiful weather dashboard with location-based forecasts and interactive maps.',
+      description: 'Developed a food ordering application that allows users to browse restaurants, select items, and place orders seamlessly. The application manages orders and order status through a simple and user-friendly interface..',
       technologies: ['Html', 'Css','Java','j2EE','Mysql','Jsp'],
       image: '/images/kichb.png',
       link: '#',
@@ -33,7 +33,7 @@ const Projects = () => {
     {
       id: 4,
       title: 'Library Management ',
-      description: 'Analytics platform for tracking social media metrics and engagement.',
+      description: 'Implemented a library management system featuring role-based authentication for admins and users to manage library resources..',
       technologies: ['Html', 'Css', 'Java','jsp', 'mySql','J2EE'],
       image: '/images/lib.jpg',
       link: '#',
